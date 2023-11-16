@@ -23,7 +23,6 @@ I'm a Backend Developer👩🏻‍💻
 ### 📨 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:won1110218@gmail.com)](mailto:won1110218@gmail.com)
 [![Velog](https://img.shields.io/badge/Tech%20Blog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@hyewon0218/)](https://velog.io/@hyewon0218/)
-[![Notion](https://img.shields.io/badge/Study%20notion-000000?style=flat&logo=notion&logoColor=white&link=https://cooperative-viburnum-f29.notion.site/Spring-9ee67557887548eca582377b6ac6ab52?pvs=4/)](https://cooperative-viburnum-f29.notion.site/Spring-9ee67557887548eca582377b6ac6ab52?pvs=4/)
 
 <!--
 **hyewon218/hyewon218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
